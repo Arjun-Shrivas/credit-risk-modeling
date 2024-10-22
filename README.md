@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on enhancing the credit score calculation process by introducing key financial metrics and aggregating customer financial data over different timeframes. These features help better assess credit risk and provide a more detailed understanding of customer creditworthiness, which is crucial in the **fintech industry**.
 
-The project introduces a **Hypothetical Credit Score Calculation** based on various financial features, designed specifically for **fintech companies** to improve lending decisions, risk management, and customer segmentation.
+The project introduces a **Hypothetical Credit Score Calculation** based on various financial features, designed specifically for **fintech companies** to improve lending decisions, risk management, and customer segmentation
 
 ---
 
